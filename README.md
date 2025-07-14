@@ -1,4 +1,4 @@
 # git-learning
 learning Git
 <br>
-author- sankalp chouhan
+author- sankalp chouhan sankalp
